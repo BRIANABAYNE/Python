@@ -34,8 +34,8 @@ if choice2 == "wait":
   print("You found the treausre! You win!")
  elif choice3 == "blue":
     print("You fell into hell. Game over!")
-   else:
-else:
-print("You got attacked by a shark! Game Over")
+  else:
+ else:
+ print("You got attacked by a shark! Game Over")
 else:
   print("Game Over! You fell into a hole!") 
